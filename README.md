@@ -110,25 +110,25 @@ python visualize.py -sm PATH_TO_SAVED_MODEL -ld PATH_TO_MAP -id PATH_TO_IMAGES -
 
 ## SOFTWARE REFERENCES:
 
-**TensorFlow Model Garden**
+- **TensorFlow Model Garden**
 
-**_Authors:_** Hongkun Yu, Chen Chen, Xianzhi Du, Yeqing Li, Abdullah Rashwan, Le Hou, Pengchong Jin, Fan Yang, Frederick Liu, Jaeyoun Kim, and Jing Li
+    **_Authors:_** Hongkun Yu, Chen Chen, Xianzhi Du, Yeqing Li, Abdullah Rashwan, Le Hou, Pengchong Jin, Fan Yang, Frederick Liu, Jaeyoun Kim, and Jing Li
 
-**_Date:_** 2020
+    **_Date:_** 2020
 
-**_Code version:_** 2.0
+    **_Code version:_** 2.0
 
-**_Availability:_** https://github.com/tensorflow/models
+    **_Availability:_** https://github.com/tensorflow/models
 
-**Automl EfficientDet**
+- **Automl EfficientDet**
 
-**_Authors:_** Mingxing Tan, Ruoming Pang, Quoc V. Le
+    **_Authors:_** Mingxing Tan, Ruoming Pang, Quoc V. Le
 
-**_Date:_** 2020
+    **_Date:_** 2020
 
-**_Code version:_** 7.0
+    **_Code version:_** 7.0
 
-**_Availability:_** https://github.com/google/automl/tree/master/efficientdet
+    **_Availability:_** https://github.com/google/automl/tree/master/efficientdet
 
 ## THANK YOU!
 
